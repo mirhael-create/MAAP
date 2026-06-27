@@ -1,0 +1,6 @@
+{
+  "name": "Stahl Visual Psychopharmacology Academy",
+  "description": "Premium interactive learning platform for psychiatry residents translating Stahl's Essential Psychopharmacology textbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
